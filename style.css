@@ -71,3 +71,8 @@ a:focus {
   transform: translateY(-0.2rem);
   text-decoration: underline;
 }
+
+img{
+  border-radius: 50%;
+  border:1px solid #eee;
+}
