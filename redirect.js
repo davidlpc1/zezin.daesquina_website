@@ -1,1 +1,1 @@
-window.addEventListener('DOMContentLoaded',() => location.href = "https://www.instagram.com/zezin.daesquina/")
+window.addEventListener('DOMContentLoaded',() => setTimeout(() => location.href = "https://www.instagram.com/zezin.daesquina/",2000))
