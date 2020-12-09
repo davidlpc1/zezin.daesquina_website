@@ -1,0 +1,9 @@
+{
+  "name": "zezin.daesquina_website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/davidlpc1/zezin.daesquina_website",
+  "author": "Davi Lucas <davilucasdlcreator@gmail.com>",
+  "license": "MIT",
+  "dependencies": {}
+}

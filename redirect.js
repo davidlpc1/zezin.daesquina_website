@@ -1,0 +1,1 @@
+window.addEventListener('DOMContentLoaded',() => location.href = "https://www.instagram.com/zezin.daesquina/")
